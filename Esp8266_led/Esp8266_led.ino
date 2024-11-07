@@ -37,7 +37,7 @@ struct {
   .commands = {
     "AT",
     "AT+CWMODE=1",
-    "AT+CWJAP=\"PHVG_2.4G\",\"14521011\"",
+    "AT+CWJAP=\"ssid\",\"password\"",
     "AT+CIFSR",
     "AT+CIPMUX=1",
     "AT+CIPSERVER=1,80",
