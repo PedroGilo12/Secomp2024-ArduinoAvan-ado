@@ -1,6 +1,8 @@
 
 # Arduino Avançado - Controle Wireless de Iluminação com ESP8266
 
+Link para os slides: [Apresentação SECOMP2024](https://docs.google.com/presentation/d/1PWb7XIcoAObllwDEL3FhZR2bGas_9WC4WStVpGrsZL8/edit?usp=sharing)
+
 ## Descrição
 
 Este projeto apresenta um minicurso de Arduino Avançado, onde será abordado o controle wireless de iluminação utilizando o módulo ESP8266. Os participantes aprenderão a controlar a intensidade de LEDs de forma remota, através de uma rede Wi-Fi.
